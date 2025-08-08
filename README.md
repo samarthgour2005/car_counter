@@ -1,6 +1,7 @@
+
 ## 🚗 Vehicle Detection & Counting using YOLOv8 and SORT Tracker  
 This project detects and counts moving vehicles 🚙🚌🏍️ in a video feed using **YOLOv8** 🤖 for object detection and the **SORT** (Simple Online and Realtime Tracking) algorithm for tracking. It supports ⚡ GPU acceleration via **PyTorch CUDA** when available.  
-
+###( Video can't be uploaded due to size restrictions ,images are provided)
 ### ✨ Features  
 - 🎯 Real-time object detection with YOLOv8 (`ultralytics` library)  
 - 🔍 Vehicle tracking using SORT algorithm  
