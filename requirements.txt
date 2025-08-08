@@ -1,0 +1,30 @@
+# Core YOLO and Computer Vision
+ultralytics>=8.0.26
+cvzone>=1.5.6
+opencv-python>=4.5.4.60
+
+# Deep Learning Framework
+torch>=1.7.0,<2.8.0
+torchvision>=0.8.1,<0.23.0
+
+# Scientific Computing
+numpy>=1.18.5,<2.0.0
+scipy>=1.4.1
+matplotlib>=3.2.2
+scikit-image>=0.19.3
+
+# Image Processing
+Pillow>=7.1.2
+
+# Data Processing & Utils
+PyYAML>=5.3.1
+requests>=2.23.0
+tqdm>=4.64.0
+hydra-core>=1.2.0
+
+# Tracking Libraries
+filterpy>=1.4.5
+lapx  # Modern replacement for problematic lap==0.4.0
+
+# SORT Tracking from GitHub
+# git+https://github.com/abewley/sort.git
